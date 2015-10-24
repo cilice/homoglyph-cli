@@ -1,0 +1,39 @@
+{
+  "name": "homoglyph-cli",
+  "version": "0.0.1",
+  "description": "A CLI programm to use homoglyph library.",
+  "main": "index.js",
+  "bin": {
+    "homoglyph": "cli.js"
+  },
+  "scripts": {
+    "test": "ava",
+    "lint": "standard cli.js index.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cilice/homoglyph-cli.git"
+  },
+  "keywords": [
+    "homoglyph",
+    "cli",
+    "mimic",
+    "utf8",
+    "syntax",
+    "error"
+  ],
+  "author": "Alexander Plavinski <hello@cilice.me> (https://cilice.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cilice/homoglyph-cli/issues"
+  },
+  "homepage": "https://github.com/cilice/homoglyph-cli#readme",
+  "preferGlobal": true,
+  "devDependencies": {
+    "ava": "^0.2.0",
+    "standard": "^5.3.1"
+  }
+}
