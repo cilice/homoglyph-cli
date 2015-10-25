@@ -1,4 +1,4 @@
-# homoglyph-cli
+# homoglyph-cli [![Build Status](https://travis-ci.org/cilice/homoglyph-cli.svg?branch=master)](https://travis-ci.org/cilice/homoglyph-cli)
 
 A port of [mimic](https://github.com/reinderien/mimic) to node.js.
 
