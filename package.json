@@ -1,6 +1,6 @@
 {
   "name": "homoglyph-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI programm to use homoglyph library.",
   "main": "cli.js",
   "bin": {
