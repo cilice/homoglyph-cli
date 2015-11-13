@@ -7,8 +7,7 @@
     "homoglyph": "cli.js"
   },
   "scripts": {
-    "test": "ava",
-    "lint": "standard cli.js"
+    "test": "ava"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -33,8 +32,7 @@
   "homepage": "https://github.com/cilice/homoglyph-cli#readme",
   "preferGlobal": true,
   "devDependencies": {
-    "ava": "^0.4.2",
-    "standard": "^5.3.1"
+    "ava": "^0.4.2"
   },
   "dependencies": {
     "get-stdin": "^5.0.1",
