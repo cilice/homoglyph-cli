@@ -21,7 +21,9 @@ $ npm install --save homoglyph-cli
 $ homoglyph <file>
 $ homoglyph <file> --reverse
 $ homoglyph <file> --probability 1-100
+$ homoglyph <file> --characters " ;"
 $ echo <string> | homoglyph
 $ echo <string> | homoglyph --reverse
 $ echo <string> | homoglyph --probability 1-100
+$ echo <string> | homoglyph --characters " ;"
 ```
