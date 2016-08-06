@@ -32,7 +32,7 @@
   "homepage": "https://github.com/cilice/homoglyph-cli#readme",
   "preferGlobal": true,
   "devDependencies": {
-    "ava": "^0.14.0"
+    "ava": "^0.16.0"
   },
   "dependencies": {
     "get-stdin": "^5.0.1",
