@@ -32,12 +32,12 @@
   "homepage": "https://github.com/cilice/homoglyph-cli#readme",
   "preferGlobal": true,
   "devDependencies": {
-    "ava": "^0.14.0"
+    "ava": "^0.17.0"
   },
   "dependencies": {
     "get-stdin": "^5.0.1",
     "homoglyph": "^1.1.1",
     "meow": "^3.4.2",
-    "update-notifier": "^0.6.0"
+    "update-notifier": "^1.0.2"
   }
 }
